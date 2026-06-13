@@ -47,4 +47,4 @@ Deepika Annamalai
 
 ## Output
 
-![alt text](<../Screenshot 2026-06-14 005513.png>)
+![Study Tracker Output](output.png)
