@@ -1,16 +1,50 @@
-# React + Vite
+# Study Tracker 📚
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based Study Tracker application designed to help students organize their study sessions, track progress, and stay focused using a built-in Pomodoro Timer.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- ✅ Add, edit, and delete subjects
+- 🎯 Set a daily study goal
+- ⏱️ Pomodoro Timer for focused study sessions
+- 📈 Track study hours for each subject
+- 🎨 Assign custom colors to subjects
+- ✔️ Mark subjects as completed
+- 💾 Save data using Local Storage
+- 📅 Record creation dates for subjects
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- JavaScript (ES6+)
+- Vite
+- CSS
+- Local Storage API
 
-## Expanding the ESLint configuration
+## What I Learned
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Through this project, I learned:
+
+- React Components
+- Props
+- useState
+- useEffect
+- Conditional Rendering
+- Event Handling
+- Local Storage
+- State Management
+
+## Future Improvements
+
+- Sound notification when Pomodoro ends
+- Dark Mode
+- Weekly study statistics
+- Data export feature
+
+## Author
+
+Deepika Annamalai
+
+## Output
+
+![alt text](<../Screenshot 2026-06-14 005513.png>)
