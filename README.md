@@ -2,6 +2,10 @@
 
 A React-based Study Tracker application designed to help students organize their study sessions, track progress, and stay focused using a built-in Pomodoro Timer.
 
+## Live Demo
+
+https://splendid-cactus-daf793.netlify.app/
+
 ## Features
 
 - ✅ Add, edit, and delete subjects
