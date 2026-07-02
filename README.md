@@ -4,7 +4,7 @@ A React-based Study Tracker application designed to help students organize their
 
 ## Live Demo
 
-https://splendid-cactus-daf793.netlify.app/
+https://deepika-study-tracker.netlify.app/
 
 ## Features
 
